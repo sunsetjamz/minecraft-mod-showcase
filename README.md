@@ -1,26 +1,25 @@
 # minecraft-mod-showcase
 
-## 📦 Mod Name: Create
-
 **Description:**  
-Create is a mod centered around rotational power and mechanical systems.
+These are the list of mods I have looked all over for and have evaluated to be compatible with one another while still performing well on the server.
 
 **Features:**
-- Complex machines and contraptions
-- Automation with belts and cogwheels
-- Gorgeous animations
+- Overworld Generations, Structures, Biomes
+- Nether Biomes, Structures, Mobs
+- END Generation, Cities, Biomes
+- Mobs (New Mobs and Variants/Skins to existing ones)
+- Farming (Foods, Recipes, Cooking)
+- Villagers (Professions, Traders)
+- Weaponry (Armor/Tool Trims, Uprades GRIND!!!)
+- Utilities (Quality of Life Tools)
 
-**Links:**  
-[CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/create)
 
-![Screenshot or GIF](https://example.com/image.gif) *(optional)*
+👍 **React with a thumbs up to vote for a mod!**
 
-👍 **React with a thumbs up to vote for this mod!**
+# Minecraft Mod Showcase & Voting
 
-# 🛠️ Minecraft Mod Showcase & Voting
-
-Welcome to the mod showcase for our custom Minecraft modpack!  
-We're testing out different mods and we need YOUR help to decide which ones make the cut.
+Welcome to showcase for our Minecraft Modpack. 
+I have been testing out different mods and have put together as many interesting mods. In the end, I will advise and put together the modpack based on compatibility.
 
 ## ✅ How to Vote
 
@@ -38,6 +37,4 @@ Each mod is posted as an **issue** in this repo. To vote:
 - `🕒 pending` – Still being voted on / tested
 - `❌ removed` – This mod won't be added (for now)
 
----
 
-Thanks for helping shape the modpack! 🧱⚙️
