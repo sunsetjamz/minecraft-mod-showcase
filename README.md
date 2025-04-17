@@ -51,4 +51,19 @@ Click the mod name to view it, then react if you want it in the pack!
 - [Better Villages 🏡](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/7) — `enhancement`, `Overworld`, `Villagers`
 - [More Villagers 👨‍🌾](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/8) — `enhancement`, `Farming`, `Highly Recommend`, `Villagers`
 - [Pillager Civilization ⚔️](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/9) — `enhancement`, `Mobs`, `Overworld`
+- [Yung's Everything](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/10) — `enhancement`, `Overworld`
+- [Dungeons and Taverns: End Castle Standalone](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/11)
+- [Armor Trim Enhancements](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/12)
+- [Nether Expansion Collection](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/13)
+- [Smelting and Fuel Improvements](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/14)
+- [Utility & Immersion Enhancements](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/15)
+- [Fisherman's Haven](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/16)
+- [World Generation Overhauls](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/17)
+- [Luminous Monsters](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/18)
+- [Goblin Traders](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/19)
+- [Endercon: End Dimension Overhaul](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/20)
+- [Spice Wood & Echo Mobs](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/21)
+- [Explorify: New Structures](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/22)
+
+
 
