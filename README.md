@@ -38,7 +38,7 @@ Each mod is posted as an **issue** in this repo. To vote:
 - `❌ banned` – This mod won't be added (for now)
 
 
-##List of Mods
+## List of Mods
 
 Click the mod name to view it, then react if you want it in the pack!
 
