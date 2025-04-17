@@ -40,5 +40,15 @@ Each mod is posted as an **issue** in this repo. To vote:
 
 ##List of Mods
 
-[Farmer's Delight](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/1)
+Click the mod name to view it, then react if you want it in the pack!
+
+- [Farmer's Delight 🌾](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/1) — `enhancement`, `Farming`, `Highly Recommend`
+- [Village Traders 🧑‍🌾](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/2) — `Overworld`, `Villagers`
+- [Improved Pillager Outpost 🏰](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/3) — `Mobs`, `Overworld`
+- [Towns and Towers 🏘️](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/4) — `Highly Recommend`, `Overworld`, `Villagers`
+- [Dungeons and Taverns 🍻](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/5) — `enhancement`, `Mobs`, `Overworld`
+- [Better Cave Worlds 🌌](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/6) — `enhancement`, `Overworld`
+- [Better Villages 🏡](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/7) — `enhancement`, `Overworld`, `Villagers`
+- [More Villagers 👨‍🌾](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/8) — `enhancement`, `Farming`, `Highly Recommend`, `Villagers`
+- [Pillager Civilization ⚔️](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/9) — `enhancement`, `Mobs`, `Overworld`
 
