@@ -40,5 +40,5 @@ Each mod is posted as an **issue** in this repo. To vote:
 
 ##List of Mods
 
-![Farmer's Delight](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/1)
+[Farmer's Delight](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/1)
 
