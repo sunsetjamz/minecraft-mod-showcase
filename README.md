@@ -35,6 +35,6 @@ Each mod is posted as an **issue** in this repo. To vote:
 
 - `✅ added` – This mod is confirmed for the pack
 - `🕒 pending` – Still being voted on / tested
-- `❌ removed` – This mod won't be added (for now)
+- `❌ banned` – This mod won't be added (for now)
 
 
