@@ -38,3 +38,7 @@ Each mod is posted as an **issue** in this repo. To vote:
 - `❌ banned` – This mod won't be added (for now)
 
 
+##List of Mods
+
+![Farmer's Delight](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/1)
+
