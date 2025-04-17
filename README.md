@@ -42,16 +42,16 @@ Each mod is posted as an **issue** in this repo. To vote:
 
 Click the mod name to view it, then react if you want it in the pack!
 
-- [Farmer's Delight 🌾](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/1) — `enhancement`, `Farming`, `Highly Recommend`
-- [Village Traders 🧑‍🌾](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/2) — `Overworld`, `Villagers`
-- [Improved Pillager Outpost 🏰](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/3) — `Mobs`, `Overworld`
-- [Towns and Towers 🏘️](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/4) — `Highly Recommend`, `Overworld`, `Villagers`
-- [Dungeons and Taverns 🍻](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/5) — `enhancement`, `Mobs`, `Overworld`
-- [Better Cave Worlds 🌌](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/6) — `enhancement`, `Overworld`
-- [Better Villages 🏡](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/7) — `enhancement`, `Overworld`, `Villagers`
-- [More Villagers 👨‍🌾](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/8) — `enhancement`, `Farming`, `Highly Recommend`, `Villagers`
-- [Pillager Civilization ⚔️](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/9) — `enhancement`, `Mobs`, `Overworld`
-- [Yung's Everything](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/10) — `enhancement`, `Overworld`
+- [Farmer's Delight](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/1) 
+- [Village Traders](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/2) 
+- [Improved Pillager Outpost](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/3) 
+- [Towns and Towers](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/4) 
+- [Dungeons and Taverns](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/5) 
+- [Better Cave Worlds](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/6) 
+- [Better Villages](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/7) 
+- [More Villagers](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/8)
+- [Pillager Civilization ⚔️](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/9) 
+- [Yung's Everything](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/10) 
 - [Dungeons and Taverns: End Castle Standalone](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/11)
 - [Armor Trim Enhancements](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/12)
 - [Nether Expansion Collection](https://github.com/sunsetjamz/minecraft-mod-showcase/issues/13)
